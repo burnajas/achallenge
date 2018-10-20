@@ -18,3 +18,10 @@ Run through the remaining list and determine the result.
 
 Confirm the result with the output files provided.
 
+**Which mouse challenge**
+
+The challenge is to determine what type of mouse the sentence is describing.
+
+Descriptive sentences are provided if a file. 
+
+Run though the sentences and determine which mouse is being described.

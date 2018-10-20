@@ -1,4 +1,5 @@
 class Median(object):
+    """Contains methods for Running Median challenge"""
     def gen_median(self, fn=None):
         """Takes the filename containing the list of numbers a provides a returning the current """
         if fn is None:
