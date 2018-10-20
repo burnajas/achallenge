@@ -2,7 +2,7 @@
 
 The purpose of the exercise was to write solutions to two challenges:
 
-`A running mean on a sequence of number`
+`A running mean on a sequence of numbers`
 
 `Determine what type of MOUSE a paragraph of text is refering to; animal or computer`
 
@@ -22,6 +22,6 @@ Confirm the result with the output files provided.
 
 The challenge is to determine what type of mouse the sentence is describing.
 
-Descriptive sentences are provided if a file. 
+Descriptive sentences are provided in a file. 
 
 Run though the sentences and determine which mouse is being described.
